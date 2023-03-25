@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jgoetzmann
-- 👀 I’m interested in the pains of lua
+- 👀 I’m interested in creating games
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing :(
-- 📫 How to reach me jgoetzmann@eastsideprep.org
+- 💞️ I’m looking to collaborate with other developers
+- 📫 How to reach me jgoetzmannn@gmail.com
 
 <!---
 jgoetzmann/jgoetzmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
