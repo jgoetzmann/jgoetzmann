@@ -1,4 +1,4 @@
-First-year Computer Science, Statistics, and Economics student at the University of Chicago, focused on learning as much as possible about artificial intelligence and its impacts. Interested in software development, business operations, and finance, with a long-standing appreciation for pho.
+Computer Science and Media Arts & Design student at the University of Chicago, focused on learning as much as possible about artificial intelligence and its creative applications. Interested in full-stack software development, building intuitive user experiences, and exploring the intersection of technology and design, with a long-standing appreciation for pho.
 
 <!---
 jgoetzmann/jgoetzmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
