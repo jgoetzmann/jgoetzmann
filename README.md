@@ -1,6 +1,6 @@
-Computer Science & Media Arts and Design student at the University of Chicago, focused on learning as much as possible about artificial intelligence and its creative applications. Interested in full-stack software development, building intuitive user experiences, and exploring the intersection of technology and design, with a long-standing appreciation for pho.
+Computer Science, Statistics, and Economics student at the University of Chicago. I love pho.
 
-(Graduating June 2029)
+(Graduating June 2028)
 
 <!---
 jgoetzmann/jgoetzmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
