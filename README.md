@@ -1,4 +1,4 @@
-Computer Science, Statistics, and Economics student at the University of Chicago. I love pho.
+Computer Science & Statistics student at the University of Chicago. I love pho.
 
 (Graduating June 2028)
 
