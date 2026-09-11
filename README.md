@@ -1,6 +1,6 @@
 Computer Science & Statistics student at the University of Chicago. I love pho.
 
-(Graduating June 2028)
+(Graduating June 2029)
 
 <!---
 jgoetzmann/jgoetzmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
